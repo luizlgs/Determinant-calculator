@@ -27,7 +27,7 @@ def det(pmatrix):
         return (pmatrix[0][0] * pmatrix[1][1]) - (pmatrix[0][1] * pmatrix[1][0])
 
 
-tam = int(input("Dimensão da matrix: "))
+tam = int(input("Dimensão da matriz: "))
 matrix = []
 column = []
 for c in range (tam):
