@@ -37,4 +37,3 @@ for c in range (tam):
     column = []
     
 print(f"Determinante = {det(matrix)}")
-print("testeeeee")
